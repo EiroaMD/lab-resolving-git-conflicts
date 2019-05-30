@@ -27,3 +27,6 @@ I don't really know yet, as I don't really have any information of the field yet
 
 * What is your career goal?
 Still trying to figure it out.
+
+THIS IS ATTEMPT TWO (STEP 5 OF STEP 7). I'M SUPPOSED TO BE ON THE SIDE BRANCH LAB-RESOLVING-GIT-CONFLICTS
+
